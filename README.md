@@ -8,4 +8,4 @@ Datasets for Data Science with R specialization:
 - [`students-raw`](https://data-science-with-r.github.io/data/students-raw.csv) - Synthetic data.
 - [`survation`](https://data-science-with-r.github.io/data/survationw.csv) - Source: <https://x.com/GraphCrimes/status/1566264004288331776>.
 
-  GitHub repository: <https://github.com/data-science-with-r/data>.
+GitHub repository: <https://github.com/data-science-with-r/data>.
